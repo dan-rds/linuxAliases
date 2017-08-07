@@ -10,7 +10,7 @@ echo "alias log='tail -f /var/log/syslog'" >> ~/.bash_profile
 
 echo "alias renet='sudo service networking restart; sudo service networking status;q'" >> ~/.bash_profile
 
-echo "alias hgrep='history | grep "\""$@"\""'" >> ~/.bash_profile
+echo "alias hgrep='history | grep "\""\$@"\""'" >> ~/.bash_profile
 
 echo "alias remasq='sudo service dnsmasq restart; service dnsmasq status;q'" >> ~/.bash_profile
 
