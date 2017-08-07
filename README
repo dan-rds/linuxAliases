@@ -5,7 +5,7 @@ This is usefull if you are like me, constantly jumping to new computers on new n
 
 Simply:
 	1) Clone the repository
-	2) Run ./aliases.sh (which will log you out)
+	2) Run ./linuxAliases (which will log you out)
 	3) Log back in
 And you are done!
 
